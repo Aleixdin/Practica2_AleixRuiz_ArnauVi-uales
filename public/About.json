@@ -1,0 +1,16 @@
+[{
+        "id": 1,
+        "nombre": "Aleix Ruiz",
+        "srcimg": "https://raw.githubusercontent.com/afrikiudl/codigopracticawd/main/src/assets/videojuegos.jpg", 
+        "alt": "Retrato de Aleix, programador de game chicken",
+        "texto": "Aleix es el cofundador y programador de Game Chicken. Anterior programador de Kraken Games. Como él dice: No se duerme hasta terminar de programar, pero siempre hay cinco minutos para unos Crispis."
+    },
+    {
+        "id": 2,
+        "nombre": "Arnau Viñuales",
+        "srcimg": "https://raw.githubusercontent.com/Aleixdin/EmpleadosImg/main/Arnau.png?token=ARECDDTNN3XE4ATB3U6NND3AACMME",
+        "alt": "Retrato de Arnau, modelador de game chicken",
+        "texto": "Arnau es el cofundador, escritor, artista y modelador 3D de Game Chicken.  Anterior modelador 3D de Kraken Games. Modelar en 3D es su pasión, la calvicie su bendición ¿Porqué?  menos tiempo usando el peine significa más tiempo modelando."
+    }
+    
+]
